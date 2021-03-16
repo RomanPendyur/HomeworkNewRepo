@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,300;0,400;0,500;0,600;0,800;0,900;1,500&display=swap');
+
+.body__style{
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;        
+}
+
+.header__style{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    width: 100vw;
+    height: 34px;
+    z-index: 90;    
+}
+
+.header_logo__style{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    left: 18px;    
+    text-align: center;
+    width: 100px;
+    height: 34px;
+    color: #262626;
+    font-family: Pacifico;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.header_logo__style-clit{    
+    position: relative;
+    top: -26px;
+}
+
+.menu_checkbox__style{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 7px;
+    right: -136px;
+    z-index: 4;    
+    appearance: none;
+    outline: none;   
+}
+
+.menu__style{
+    width: 34px;
+    height: 24px;
+    padding: 3px;
+    font-size: 30px;
+    position: relative;
+    top: -1px;
+    right: -56%;
+    z-index: 2;
+}
+
+.header_nav__style{
+    background-color: white;    
+    height: 240px;
+    position: relative;
+    top: 32px;        
+}
+
+.header_nav__style-li{
+    position: relative;
+    left: -5px;
+    margin: 18px 20px 0 0;
+    list-style: none;
+    cursor: pointer;    
+}
+
+.header_nav__style-a{
+    text-decoration: none;
+    color: #262626;
+    font-family: Raleway;
+    font-weight: 800;
+}
+
+.header_nav__style-a:hover {
+    border-bottom: 3px solid orange ;
+    padding-bottom: 5px;
+}
+
+.menu_checkbox__style:checked ~ .header_nav__style{
+    position: relative;
+    right: -200px;       
+}
+
+.scroll_container__style{
+    position: fixed;
+    top: 92vh;
+    z-index: 90;
+    opacity: 0.7;
+}
+
+.fresh_life_container{
+    background-image: url("../img/StrawberyInYogurtSplash.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1;
+    width: 100vw;
+    height: 100vh;
+    position: relative; 
+    z-index: 1;   
+}
+
+
+

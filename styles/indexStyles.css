@@ -196,7 +196,7 @@
     background-repeat: no-repeat;
     background-position: 56% 0;
     background-size: 300px;
-    width: 100vw;
+    width: 100%;
     height: 75vh;   
 }
 
@@ -220,7 +220,6 @@
 .option_our_services_li__style:hover {
     background-color: #d6d6d6;
 }
-
 
 .option_our_services_a__style{
     text-decoration: none;    
@@ -256,3 +255,104 @@
     position: relative;
     top: -440px;
 }
+
+.gallery_container_style{
+    background-color: #ffe92f;
+    width: 100%;
+    height: 1550px;
+    position: relative; 
+    z-index: 1;
+}
+
+.gallery_header_style{    
+    display: flex;    
+    flex-direction: column;
+}
+
+.gallery_header-h2_style{    
+    position: relative;        
+    width: 200px;
+    height: 40px;
+    top: 15px; 
+    left: 22%;    
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+.gallery_header-p_style{    
+    position: relative;
+    width: 210px;
+    top: -20px;
+    left: 22%;
+    text-align: center;
+    font-weight: 900;
+}
+
+.gallery_header-photo_style{
+    background-color: blue;
+    position: relative;
+    left: 7.5%;    
+    width: 300px;
+    height: 210px;
+}
+
+.gallery_header-photo-1_style{
+    margin-top: 20px;
+    background-image: url("../img/peach.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;    
+}
+
+.gallery_header-photo-2_style{
+    margin-top: 20px;
+    background-image: url("../img/blueberry.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.gallery_header-photo-3_style{
+    margin-top: 20px;
+    background-image: url("../img/blackRaspbery.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.gallery_header-photo-4_style{
+    margin-top: 20px;
+    background-image: url("../img/blackberry.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.gallery_header-photo-5_style{
+    margin-top: 20px;
+    background-image: url("../img/hurma.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.gallery_button_style{
+    position: relative;
+    width: 200px;
+    height: 55px;    
+    background-color: #5585a2;
+    color: white;
+    position: relative;
+    top: 35px;
+    left: 24%;
+    outline: none;
+    border: none;
+}
+
+.gallery_button_style:hover {
+    background-color: cyan;
+    color: black;
+    border: 2px solid coral;
+}
+

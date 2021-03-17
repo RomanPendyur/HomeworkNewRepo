@@ -648,26 +648,33 @@
     font-size: 19px; 
 }
 
-
 .footer_contact_container__style{
-     position: relative;
-
+    background-color: #262626;
+    position: relative;
+    top: -40px;
+    width: 100%;
+    height: 150px;
+    margin-bottom: -40px;
+    text-align: center;       
 }
 
 .left_footer_p_contact_container__style{
-     
+    color: #b9b9b9;
+    width: 90%;    
 }
 
-
 .center_footer_p_contact_container__style{
-    
+    color: #b9b9b9;
+    font-family: Pacifico
 }
 
 .right_footer_p_contact_container__style{
+    color: #b9b9b9;
     
 }
 
 .right_footer_p_span_contact_container__style{
+    color: #ff2b58;
     
 }
 

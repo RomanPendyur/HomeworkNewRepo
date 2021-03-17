@@ -182,3 +182,77 @@
     top: 8%;
     left: 55%;
 }
+
+.our_services_container__style{
+    background-color: #70bfff;
+    width: 100vw;
+    height: 78vh;
+    position: relative; 
+    z-index: 1;
+}
+
+.our_services_content__style{
+    background-image: url("../img/Tomato.png");
+    background-repeat: no-repeat;
+    background-position: 56% 0;
+    background-size: 300px;
+    width: 100vw;
+    height: 75vh;   
+}
+
+.option_our_services__style{
+    display: flex;    
+    flex-direction: column;
+    margin: 40% 5% 0 -4%;    
+}
+
+.option_our_services_li__style{
+    margin: 1%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    background-color: #ffffff;
+    list-style: none;
+    padding: 3px 0 3px 0;
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;       
+}
+
+.option_our_services_li__style:hover {
+    background-color: #d6d6d6;
+}
+
+
+.option_our_services_a__style{
+    text-decoration: none;    
+    display: flex;
+    flex-direction: row;    
+}
+
+.option_our_services_span__style{   
+    display: block;
+    text-align: center;        
+    width: 180px;
+    height: 40px;
+    position: relative;
+    top: 30%; 
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 700;
+    color: #262626;      
+}
+
+.option_our_services_svg__style{    
+    border-left: 1px solid #262626;
+    margin: 0 0 0 15px;
+    padding: 0 0 0 12px;    
+}
+
+.option_our_services_h2__style{
+    color: #ffffff;
+    text-align: center; 
+    font-size: 40px;
+    font-family: Raleway;
+    z-index: 5;
+    position: relative;
+    top: -440px;
+}

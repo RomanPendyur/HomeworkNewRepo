@@ -271,10 +271,10 @@
 
 .gallery_header-h2_style{    
     position: relative;        
-    width: 200px;
+    width: 55%;
     height: 40px;
     top: 15px; 
-    left: 22%;    
+    left: 25%;    
     text-align: center;
     font-size: 40px;
     color: black;
@@ -282,18 +282,18 @@
 
 .gallery_header-p_style{    
     position: relative;
-    width: 210px;
+    width: 55%;
     top: -20px;
-    left: 22%;
+    left: 24%;
     text-align: center;
     font-weight: 900;
 }
 
-.gallery_header-photo_style{
-    background-color: blue;
+.gallery_header-photo_style{    
     position: relative;
-    left: 7.5%;    
-    width: 300px;
+    top: -20px;
+    left: 11%;    
+    width: 80%;
     height: 210px;
 }
 
@@ -344,8 +344,8 @@
     background-color: #5585a2;
     color: white;
     position: relative;
-    top: 35px;
-    left: 24%;
+    top: 15px;
+    left: 25%;
     outline: none;
     border: none;
 }
@@ -439,17 +439,17 @@
 .blog_header_h2__style{
     font-size: 40px;
     position: relative;
-    left: 5.5%;    
+    left: 4%;    
 }
 
 .blog_header_p__style{    
-    width: 250px;
+    width: 80%;
     height: 210px;
     position: relative;
-    left: 10%;
+    left: 12%;
 }
 
-.blog_panel__style{  
+.blog_panel__style{
     width: 310px;
     height: 290px;
     position: relative;

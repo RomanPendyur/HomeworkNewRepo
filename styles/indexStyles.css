@@ -171,15 +171,19 @@
 
 .about_us_content-h2__style{
     position: relative;    
+    font-size: 30px;
+    font-family: Raleway;
     width: 45%;
-    top: 8%;
+    top: 4%;
     left: 55%;
 }
 
 .about_us_content-p__style{
     position: relative;    
+    font-size: 15px;
+    font-family: Raleway;
     width: 45%;
-    top: 8%;
+    top: 4%;
     left: 55%;
 }
 

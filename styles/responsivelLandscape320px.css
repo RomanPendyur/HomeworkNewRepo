@@ -83,6 +83,32 @@
         border: none;
     }
 
+    .about_us_content__style{
+        background-image: url("../img/raspberry.png");
+        background-repeat: no-repeat;
+        background-position: -100% 10%;
+        background-size: 500px;
+        position: relative;
+        top: -10px;
+        width: 100vw;
+        height: 75vh;
+        color: white;     
+    }
+    
+    .about_us_content-h2__style{
+        position: relative;    
+        width: 45%;
+        top: 2%;
+        left: 55%;
+    }
+    
+    .about_us_content-p__style{
+        position: relative;    
+        width: 45%;
+        top: -10px;
+        left: 55%;
+    }
+
 
         
 

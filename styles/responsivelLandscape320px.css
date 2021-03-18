@@ -1,0 +1,89 @@
+@media screen and (orientation: landscape) and (min-height:320px) and (max-height:760px){
+    
+    .menu_checkbox__style{       
+        position: relative;
+        right: -600px;  
+    }
+    
+    .menu__style{
+        position: relative;
+        right: -600px;
+    }
+    
+    .header_nav__style{            
+        width: 70%;
+        height: 34px;
+        position: relative;
+        top: 0px;
+        left: -5%;               
+    }
+
+    .header_nav__style-ul{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .header_nav__style-li{                
+        position: relative;
+        top: -25px;        
+        margin: 18px 10px 0 0;
+        list-style: none;
+        cursor: pointer;    
+    }
+    
+    .header_nav__style-a{
+        text-decoration: none;
+        color: #262626;
+        font-family: Raleway;
+        font-weight: 800;
+    }
+    
+    .header_nav__style-a:hover {
+        border-bottom: 3px solid orange ;
+        padding-bottom: 5px;
+    }
+    
+    .menu_checkbox__style:checked ~ .header_nav__style{
+        position: relative;
+        right: 200px;
+    }
+
+    .scroll_container__style{
+        position: fixed;
+        top: 89vh;
+        left: 47%;
+        z-index: 90;
+        opacity: 0.7;
+    }
+
+    .fresh_life_content__style{
+        font-family: Raleway;    
+        position: relative;
+        top: 60px;
+        left: 15px;
+        width: 60%;
+        height: 40%;
+    } 
+
+    .fresh_life_content-p__style{
+        position: relative;
+        top: -20px;
+        color: #262626;
+        line-height: 27px;
+    }
+    
+    .fresh_life_content-button__style{
+        width: 200px;
+        height: 55px;    
+        background-color: #ff6033;
+        color: white;
+        position: relative;
+        top: -10px;
+        outline: none;
+        border: none;
+    }
+
+
+        
+
+}

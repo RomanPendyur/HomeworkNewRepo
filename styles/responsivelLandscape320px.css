@@ -123,12 +123,62 @@
 
     .gallery_button_style{
         position: relative;        
-        left: 35%;        
+        left: 34%;        
+    }
+
+    .Subscribe_content_style{        
+        background-position: 85% -20%;
+    }
+
+    .Subscribe_input_style{
+        width: 270px;
+        height: 40px;
+        position: relative;
+        top: 25px;
+        left: 59px;
+    }
+    
+    .Subscribe_button_style{
+        position: relative;
+        position: relative;
+        top: 31px;
+        left: 14%;
+    }
+
+    .blog_container__style{
+        height: 1280px;        
     }
 
 
-    
 
+    .blog_header__style{
+        position: relative;
+        left: 7%;        
+    }
+
+    .blog_header_h2__style{        
+        position: relative;
+        left: 2.9%;    
+    }
+
+
+
+    .blog_panel__style{        
+        position: relative;
+        top: 15px;
+        left: 24%;        
+    }
+
+    .button_header__style{
+        position: relative;
+        top: 43px;
+        left: 34%;
+        width: 200px;
+        height: 55px;    
+        background-color: #f72b3b;
+        outline: none;
+        border: none;
+    }
 
 
 

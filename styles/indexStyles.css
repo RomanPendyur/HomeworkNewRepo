@@ -613,7 +613,7 @@
     overflow: auto;
     resize: none;
     width: 91%;
-    height: 150px;
+    height: 140px;
     padding: 4%;        
 }
 
@@ -628,7 +628,7 @@
     border-left: 5px solid #355b82;
     width: 88.5%;
     outline: none;
-    padding: 5px 19px 5px 10px;                 
+    padding: 5px 19px 0 10px;                 
 }
 
 .cahee_contact_container__style{   
@@ -660,7 +660,9 @@
 
 .left_footer_p_contact_container__style{
     color: #b9b9b9;
-    width: 90%;    
+    width: 90%;
+    position: relative;
+    left: 15px;    
 }
 
 .center_footer_p_contact_container__style{
@@ -670,7 +672,6 @@
 
 .right_footer_p_contact_container__style{
     color: #b9b9b9;
-    
 }
 
 .right_footer_p_span_contact_container__style{

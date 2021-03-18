@@ -149,8 +149,6 @@
         height: 1280px;        
     }
 
-
-
     .blog_header__style{
         position: relative;
         left: 7%;        
@@ -160,8 +158,6 @@
         position: relative;
         left: 2.9%;    
     }
-
-
 
     .blog_panel__style{        
         position: relative;
@@ -179,6 +175,77 @@
         outline: none;
         border: none;
     }
+
+    .contact_grand_container__style{
+        width: 100%;
+        height: 550px;
+        position: relative;
+        top: -40px;
+        font-family: Raleway;
+        background-image: url("../img/contactFon.png");
+        background-size: 200%;
+        background-repeat: no-repeat;        
+    }
+
+    .middle_contact_container__style{    
+        width: 100%;
+        height: 450px;
+    }
+
+    .p_header_contact_container__style{
+        width: 90%; 
+    }
+
+    .form_elements_contact_container__style{
+        width: 80%;
+    }
+    
+    .form_elements_contact_container__style::placeholder {
+        font-family: Raleway;
+        color: white;
+        font-size: 1.2em;    
+    }
+    
+    .textarea_elements_contact_container__style {
+        overflow: auto;
+        resize: none;
+        width: 85%;        
+        padding: 4% 0 0 4%;        
+    }
+    
+    .form_elements_contact_container__style:hover {
+        width: 79%;               
+    }
+    
+    .cahee_contact_container__style{   
+        width: 240px;
+        position: relative;
+        top: -368px;
+        left: 56%;
+        color: black;        
+    }
+
+    .footer_contact_container__style{
+        background-color: #262626;
+        position: relative;
+        top: -40px;
+        width: 100%;
+        height: 100px;              
+    }
+
+    .left_footer_p_contact_container__style{
+        position: relative;
+        left: -130px;    
+    }
+    
+    .right_footer_p_contact_container__style{
+        position: relative;
+        width: 200px;
+        top: -79px;
+        left: 400px;
+    }
+    
+    
 
 
 

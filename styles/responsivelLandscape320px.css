@@ -73,43 +73,64 @@
     }
     
     .fresh_life_content-button__style{
-        width: 200px;
-        height: 55px;    
-        background-color: #ff6033;
-        color: white;
         position: relative;
         top: -10px;
-        outline: none;
-        border: none;
     }
 
     .about_us_content__style{
-        background-image: url("../img/raspberry.png");
-        background-repeat: no-repeat;
         background-position: -100% 10%;
-        background-size: 500px;
         position: relative;
         top: -10px;
-        width: 100vw;
-        height: 75vh;
-        color: white;     
+            
     }
     
     .about_us_content-h2__style{
         position: relative;    
-        width: 45%;
         top: 2%;
-        left: 55%;
+        
     }
     
     .about_us_content-p__style{
         position: relative;    
-        width: 45%;
-        top: -10px;
-        left: 55%;
+        top: -10px;        
+    }
+    
+    .our_services_content__style{
+        position: relative;    
+        top: -90%; 
+        background-position: 56% 0;           
+    }
+    
+    .option_our_services__style{
+        display: flex;    
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin: 45% 0 0 0;            
+    }
+    
+    .option_our_services_li__style{
+        width: 270px;
+    }
+
+    .option_our_services_h2__style{
+        position: relative;
+        top: -270px;
+    }
+
+    .gallery_container_style{
+        height: 1480px;
+    }
+
+    .gallery_button_style{
+        position: relative;        
+        left: 35%;        
     }
 
 
-        
+    
+
+
+
+
 
 }

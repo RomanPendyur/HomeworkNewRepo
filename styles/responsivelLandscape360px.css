@@ -1,14 +1,228 @@
 @media screen and (orientation: landscape) and (min-height:360px){
-    
+
+    .header_logo__style{
+        left: 10%
+    }
+
     .menu_checkbox__style{
-        width: 15px;
-        height: 15px;
         position: relative;
         top: 7px;
-        right: -38%;
-        z-index: 4;
-        outline: none;   
+        right: -20%;
+    }
+
+    .scroll_container__style{
+        top: 87%;
     }
     
+    .fresh_life_content__style{
+        top: 110px;
+        left: 5%;
+        
+    }
+
+    .about_us_content__style{
+        background-position: -110% 43%;
+        background-size: 500px;
+           
+    }
+
+    .about_us_content-h2__style{    
+        position: relative;
+        top: 40px;  
+        left: 63%;
+    }
+
+    .about_us_content-p__style{
+        position: relative;
+        width: 40%;
+        top: 30px;
+        left: 55%;
+    }
+
+    .our_services_container__style{
+        height: 440px;
+    }
+
+    .option_our_services__style{
+        margin: 19% 5% 0 -4%;    
+    }
+
+    .our_services_content__style{
+        background-size: 450px;
+        background-position: 50% 0;
+        height: 100%;
+        position: relative;  
+        top: -28%;         
+    }
+
+    .option_our_services_h2__style{
+        position: relative;
+        top: -300px;
+    }
+
+    .option_our_services__style{
+        position: relative;
+        top: 23%;
+    }
+
+    .option_our_services_li__style{
+        margin-top: 2%;
+        width: 50%; 
+        position: relative;        
+        left: 26%;              
+    }
+
+    .gallery_container_style{
+        height: 1100px;
+    }
+
+    .gallery_photo_colection_style{
+        display: flex;
+        flex-wrap: wrap;
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+
+    .gallery_photo_style{    
+        position: relative;    
+        width: 219px;
+        height: 210px;
+        margin-top: -2%;
+    }
+
+    .gallery_photo-1_style{
+        display: flex;
+        flex-basis: 90%;
+        height: 400px;
+    }  
+    
+    .gallery_photo-2_style{        
+        margin: 0 0 0 0;
+        width: 42%;
+    }
+    
+    .gallery_photo-3_style{
+        margin: 0 0 0 6%;
+        width: 42%;
+    }
+    
+    .gallery_photo-4_style{
+        margin: -2% 0 0 0;
+        width: 42%;
+    }
+    
+    .gallery_photo-5_style{
+        margin: -2% 0 0 6%;
+        width: 42%;
+    }
+    
+    .gallery_button_style{
+        top: 10px;
+        left: 34%;
+        right: 32%;        
+    }
+
+    .Subscribe_container_style{
+        background-color: white;
+        width: 100%;
+        height: 350px;
+    }
+    
+    .Subscribe_content_style{
+        background-position: 85% 100%;
+        width: 100%;   
+        height: 100%;       
+    }
+    
+    .Subscribe_h2_style{
+        width: 41%;
+        position: relative;        
+        left: 35%;        
+    }
+    
+    .Subscribe_p_style{    
+        position: relative;
+        left: 18%;
+    }
+    
+    .Subscribe_input_style{
+        position: relative;
+        top: 15px;
+        left: 15%;
+    }
+
+    .Subscribe_button_style{    
+        top: 24px;
+        left: 20%;
+    }
+    
+    .blog_header__style{
+        position: relative;
+        left: 9%;
+    }
+
+    .blog_container__style{
+        height: 1480px;        
+    }
+
+    .blog_panel__style{
+        width: 65%;
+        height: 380px;
+        background-size: 100%;
+        background-repeat: no-repeat;        
+        position: relative;
+        top: -3%;
+        left: 18.3%;
+    }
+
+    .number_blog_panel__style{
+        position: relative;
+        top: 30px;
+        
+    }
+
+    .footer_blog_panel__style{    
+        position: relative;         
+        top: 53%;        
+    }
+
+    .button_blog__style{
+        position: relative;
+        top: -19px;
+        left: 35%;
+        
+    }
+
+    .contact_grand_container__style{
+        height: 700px;          
+    }
+
+    .form_elements_contact_container__style{
+        width: 96%;
+    }
+
+    .textarea_elements_contact_container__style {
+        width: 93%;
+    }
+
+    .cahee_contact_container__style{        
+        width: 80%;
+        display: flex;   
+        flex-direction: row;
+        justify-content: space-between;
+        color: black;   
+    }
+
+    .footer_contact_container__style{
+        top: -40px;
+        width: 100%;
+        height: 150px;        
+        text-align: center;       
+    }
+
+
+
+
 
 }

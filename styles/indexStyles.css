@@ -48,8 +48,7 @@
     position: relative;
     top: 7px;
     right: -38%;
-    z-index: 4;    
-    appearance: none;
+    z-index: 4;
     outline: none;   
 }
 
@@ -292,42 +291,42 @@
     font-weight: 900;
 }
 
-.gallery_header-photo_style{    
+.gallery_photo_style{    
     position: relative;    
     left: 6%;    
     width: 88%;
     height: 210px;
 }
 
-.gallery_header-photo-1_style{
+.gallery_photo-1_style{
     background-image: url("../img/peach.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;    
 }
 
-.gallery_header-photo-2_style{
+.gallery_photo-2_style{
     background-image: url("../img/blueberry.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
-.gallery_header-photo-3_style{
+.gallery_photo-3_style{
     background-image: url("../img/blackRaspbery.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
-.gallery_header-photo-4_style{
+.gallery_photo-4_style{
     background-image: url("../img/blackberry.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
-.gallery_header-photo-5_style{
+.gallery_photo-5_style{
     background-image: url("../img/hurma.png");
     background-position: center;
     background-repeat: no-repeat;

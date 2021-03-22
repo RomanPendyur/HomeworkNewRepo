@@ -47,7 +47,7 @@
     height: 15px;
     position: relative;
     top: 7px;
-    right: -34%;
+    left: 37.5%;
     z-index: 4;
     outline: none;   
 }
@@ -153,7 +153,7 @@
 .about_us_container__style{
     background-color: #00c4c4;
     width: 100%;
-    height: 435px;
+    height: 455px;
     position: relative; 
     z-index: 1; 
 }
@@ -161,19 +161,21 @@
 .about_us_content__style{
     background-image: url("../img/raspberry.png");
     background-repeat: no-repeat;
-    background-position: 190% 0;
+    background-position: 190% 30%;
     background-size: 500px;
     width: 100%;
+    height: 100%;
     color: white;
     position: relative; 
     top: -9px   
 }
 
-.about_us_content-h2__style{    
+.about_us_content-h2__style{
     position: relative;
     font-size: 30px;
     font-family: Raleway;
-    width: 23%;    
+    width: 50%;    
+    top: 10px;    
     left: 45%;
 }
 
@@ -181,9 +183,9 @@
     position: relative;    
     font-size: 15px;
     font-family: Raleway;
-    width: 50%;
-    height: 360px;
-    top: -18px;
+    width: 53%;
+    height: 340px;
+    top: 10px;    
     left: 45%;
 }
 

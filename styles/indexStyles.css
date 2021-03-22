@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,300;0,400;0,500;0,600;0,800;0,900;1,500&display=swap');
 
-
-
 .general__style{
     background-color: royalblue;
     display: flex;
@@ -49,7 +47,7 @@
     height: 15px;
     position: relative;
     top: 7px;
-    
+    right: -34%;
     z-index: 4;
     outline: none;   
 }

@@ -1,36 +1,15 @@
-@media screen and (orientation: landscape) and (min-width:640px) and (min-height:360px) {
-
-    .header_logo__style{
-        left: 10%
-    }
+@media screen and (orientation: landscape) and (min-width:736px) and (min-height:414px){
 
     .menu_checkbox__style{
         position: relative;
         top: 7px;
-        left: 20%;
-    }
-
-    .scroll_container__style{
-        top: 87%;
-    }
-    
-    .fresh_life_content__style{
-        top: 110px;
-        left: 5%;
-        
+        left: 17.5%;
     }
 
     .about_us_content__style{
-        background-position: -110% 43%;
-        background-size: 500px;
-           
+        background-position: -40% 43%;          
     }
-
-    .about_us_content-h2__style{    
-        position: relative;
-        top: 40px;  
-        left: 63%;
-    }
+    
 
     .about_us_content-p__style{
         position: relative;
@@ -57,7 +36,7 @@
 
     .option_our_services_h2__style{
         position: relative;
-        top: -300px;
+        top: -320px;
     }
 
     .option_our_services__style{
@@ -87,8 +66,7 @@
     .gallery_photo_style{    
         position: relative;    
         width: 219px;
-        height: 210px;
-        margin-top: -2%;
+        height: 210px;        
     }
 
     .gallery_photo-1_style{
@@ -98,41 +76,43 @@
     }  
     
     .gallery_photo-2_style{        
-        margin: 0 0 0 0;
+        margin: 2% 0 0 0;
         width: 42%;
     }
     
     .gallery_photo-3_style{
-        margin: 0 0 0 6%;
+        margin: 2% 0 0 6%;
         width: 42%;
     }
     
     .gallery_photo-4_style{
-        margin: -2% 0 0 0;
+        margin: 0 0 0 0;
         width: 42%;
     }
     
     .gallery_photo-5_style{
-        margin: -2% 0 0 6%;
+        margin: 0 0 0 6%;
         width: 42%;
     }
     
     .gallery_button_style{
         top: 10px;
-        left: 34%;
+        left: 36%;
         right: 32%;        
     }
 
     .Subscribe_container_style{
         background-color: white;
         width: 100%;
-        height: 350px;
+        height: 350px;        
     }
     
     .Subscribe_content_style{
-        background-position: 85% 100%;
+        background-position: 95% 40%;
         width: 100%;   
-        height: 100%;       
+        height: 100%;
+        position: relative; 
+        top: -25px;      
     }
     
     .Subscribe_h2_style{
@@ -178,8 +158,7 @@
 
     .number_blog_panel__style{
         position: relative;
-        top: 30px;
-        
+        top: 30px;        
     }
 
     .footer_blog_panel__style{    
@@ -190,8 +169,7 @@
     .button_blog__style{
         position: relative;
         top: -19px;
-        left: 35%;
-        
+        left: 38%;        
     }
 
     .contact_grand_container__style{

@@ -1,0 +1,14 @@
+@media screen and (orientation: landscape) and (min-height:360px){
+    
+    .menu_checkbox__style{
+        width: 15px;
+        height: 15px;
+        position: relative;
+        top: 7px;
+        right: -38%;
+        z-index: 4;
+        outline: none;   
+    }
+    
+
+}

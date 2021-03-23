@@ -266,6 +266,7 @@
     height: 1400px;
     position: relative; 
     z-index: 1;
+    font-family: Raleway;
 }
 
 .gallery_header_style{    
@@ -290,7 +291,7 @@
     top: -20px;
     left: 15%;
     text-align: center;
-    font-weight: 900;
+    font-weight: 600;
 }
 
 .gallery_photo_style{    
@@ -399,8 +400,7 @@
 }
 
 .Subscribe_button_style{    
-    background-color: #96b92c;
-    position: relative;
+    background-color: #96b92c;    
     width: 200px;
     height: 55px;
     color: white;
@@ -467,14 +467,17 @@
 
 .first_blog_panel__style{
     background-image: linear-gradient(transparent, #000000 140%), url("../img/kiwiDrink.png");
+    background-repeat: no-repeat;
 }
 
 .second_blog_panel__style{
     background-image: linear-gradient(transparent, #000000 140%), url("../img/greenSoup.png");
+    background-repeat: no-repeat;
 }
 
 .three_blog_panel__style{
     background-image: linear-gradient(transparent, #000000 140%), url("../img/raspberryBaskets.png");
+    background-repeat: no-repeat;
 }
 
 .number_blog_panel__style{
@@ -559,6 +562,7 @@
 .h2_header_contact_container__style{
     text-align: center;
     position: relative; 
+    width: 100%;
     top: 60px;
     font-size: 40px;
     font-weight: 800;

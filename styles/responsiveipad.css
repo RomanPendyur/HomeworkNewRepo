@@ -1,5 +1,249 @@
-@media screen and (orientation: landscape) and (min-width:768px) {
+@media screen and (min-width:768px) {
     
+    .menu_checkbox__style{
+        display: none;   
+    }
+
+    .menu__style{       
+       position: relative;
+       left: -200px;       
+    }
     
+    .header_nav__style{        
+        position: relative;
+        top: 0px;
+        left: 0;       
+        width: 65%;
+        height: 30px;
+        z-index: 99;              
+    }
+
+    .header_nav__style-ul{
+        display: flex; 
+        flex-direction: row;
+        margin: 0;
+        padding: 0;
+        position: relative;
+        top: -10px;
+        left: 20px;
+        z-index: 98;
+    }
+
+    .fresh_life_content__style{
+        position: relative;
+        left: 30px;        
+    }
+
+    .about_us_container__style{
+        background-color: #00c4c4;
+        width: 100%;
+        height: 445px;
+        position: relative; 
+        z-index: 1; 
+    }
+    
+    .about_us_content__style{
+        background-position: -20% 40%;        
+        position: relative; 
+        top: -29px; 
+    }
+
+    .about_us_content-h2__style{        
+        position: relative;        
+        font-size: 35px;
+        text-align: center;
+        width: 30%;    
+        top: 40px;    
+        left: 58%;
+    }
+    
+    .about_us_content-p__style{        
+        position: relative;    
+        font-size: 18px;
+        font-family: Raleway;
+        width: 41%;
+        height: 260px;
+        top: 30px;    
+        left: 57%;
+    }
+
+    .our_services_container__style{
+        height: 450px;
+    }    
+
+    .our_services_content__style{
+        background-image: url("../img/Tomato.png");
+        background-repeat: no-repeat;
+        background-position: 90% 100%;
+        background-size: 300px;
+        width: 100%;
+        position: relative;
+        top: -275px;   
+    }
+
+    .option_our_services__style{
+        display: flex;    
+        flex-direction: column;
+        margin: 40% 5% 0 -4%;    
+    }
+    
+    .option_our_services_li__style{
+        margin: 1%;
+        width: 40%;
+        position: relative;
+        top: 50px;
+        left: 70px;    
+    }
+
+    .option_our_services_h2__style{
+        position: relative;
+        width: 40%;
+        top: -150px;
+        left: 430px;
+    }
+
+    .gallery_container_style{
+        height: 1200px;
+    }
+
+    .gallery_header-h2_style{    
+        font-size: 60px;
+        font-family: Raleway;
+    }
+
+    .gallery_photo_colection_style{
+        display: flex;
+        flex-wrap: wrap;
+        width: 90%;
+        position: relative;
+        left: 5%;
+    }
+
+    .gallery_photo_style{    
+        position: relative;    
+        top: 30px;
+        width: 219px;
+        height: 210px;        
+    }
+
+    .gallery_photo-1_style{
+        display: flex;
+        flex-basis: 90%;
+        height: 400px;
+    }  
+    
+    .gallery_photo-2_style{        
+        margin: 3% 0 0 0;
+        width: 42%;
+    }
+    
+    .gallery_photo-3_style{
+        margin: 3% 0 0 6%;
+        width: 42%;
+    }
+    
+    .gallery_photo-4_style{
+        margin: 1% 0 0 0;
+        width: 42%;
+    }
+    
+    .gallery_photo-5_style{
+        margin: 1% 0 0 6%;
+        width: 42%;
+    }
+    
+    .gallery_button_style{
+        top: 50px;
+        left: 36%;
+        right: 32%;        
+    }
+
+    .Subscribe_content_style{
+        background-position: 85% 66%;
+        background-size: 150%;        
+    }
+
+    .Subscribe_h2_style{
+        left: 12%;
+        font-size: 30px;
+    }
+    
+    .Subscribe_p_style{    
+        width: 30%;        
+        left: 12%;        
+    }
+    
+    .Subscribe_input_style{
+        width: 230px;
+        height: 40px;
+        position: relative;
+        top: 15px;
+        left: 11%;
+    }
+    
+    .Subscribe_button_style{
+        position: relative;
+        top: 19px;
+        left: 22.5%;        
+    }
+
+    .blog_container__style{
+        height: 1550px;        
+    }
+
+    .blog_panel__style{
+        width: 58%;
+        height: 370px;
+        position: relative;        
+        top: 10px;
+        left: 21%; 
+        background-size: 100%;      
+    }
+
+    .footer_blog_panel__style{    
+        position: relative;
+        top: 50%;
+        left: 2%;
+    }
+
+    .button_blog__style{
+        position: relative;
+        top: 55px;
+        left: 39%;       
+    }
+
+    .contact_grand_container__style{
+        height: 700px;          
+    }
+
+    .form_elements_contact_container__style{
+        width: 96%;
+    }
+
+    .textarea_elements_contact_container__style {
+        width: 93%;
+    }
+
+    .cahee_contact_container__style{        
+        width: 80%;
+        display: flex;   
+        flex-direction: row;
+        justify-content: space-between;
+        color: black;   
+    }
+
+    .footer_contact_container__style{
+        background-color: #262626;
+        position: relative;
+        top: -40px;
+        width: 100%;
+        height: 150px;
+        margin-bottom: -40px;
+        text-align: center;       
+    }
+
+
+
+
 
 }

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
 
-.grand_contauner__style{
+.grand_container__style{
     padding: 0;
     margin: 0;
     display: flex;
@@ -8,7 +8,7 @@
     overflow-x:hidden; 
 }
 
-.header_contauner__style{
+.header_container__style{
     width: 100vw;
     height: 1072px;
     background-image: url("../img/hero-bg.jpg.png");
@@ -128,8 +128,7 @@
     align-items: center;
     background-image: url("../img/services.jpg.png");
     background-repeat: no-repeat;
-    background-size: 120%;
-
+    background-size: 100%;
 }
 
 .second_section_content__style{
@@ -153,7 +152,7 @@
     justify-content: center;
 }
 
-.second_section_firs_parag__style{
+.second_section_first_parag__style{
     width: 553px;
     height: 103px;
     color: #ffffff;
@@ -310,8 +309,7 @@
 .five_section_content__style{
     width: 902px;
     height: 312px;
-    border: 2px solid #3c3c3c;
-    
+    border: 2px solid #3c3c3c;    
 }
 
 .five_section_heading__style{
@@ -384,4 +382,6 @@
     text-align: left;
     margin-left: 2%;
 }
+
+
 

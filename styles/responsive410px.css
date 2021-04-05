@@ -1,0 +1,71 @@
+@media screen and (min-width:414px) and (min-height:736px){
+    
+    .menu_checkbox__style{
+        position: relative;        
+        left: 29.5%;
+    }    
+
+    .about_us_container__style{
+        height: 450px;
+    }
+
+    .about_us_content__style{
+        background-position: 345% 40%;
+        width: 100%;
+        position: relative; 
+        top: -25px   
+    }
+
+    .our_services_container__style{
+        height: 530px;
+    }
+
+    .our_services_content__style{
+        background-image: url("../img/Tomato.png");
+        background-repeat: no-repeat;
+        background-position: 56% 0;
+        background-size: 300px;
+        width: 100%;   
+        position: relative;
+        top: -10%;
+    } 
+
+    .gallery_container_style{
+        height: 1730px;        
+    }
+
+    .gallery_photo_style{    
+        margin-top: -20px;
+        height: 300px;
+    }
+
+    .gallery_button_style{
+        position: relative;
+        top: 5px;
+        left: 26%;
+    } 
+
+    .Subscribe_h2_style{
+        position: relative;
+        left: 23%;
+    }
+
+    .Subscribe_input_style{
+        left: 22%;
+    }
+    
+    .Subscribe_button_style{    
+        left: 27%;
+    }
+
+    .blog_container__style{
+        height: 1320px;
+    }
+
+    .button_blog__style{
+        left: 26%;
+    }
+
+
+
+}
